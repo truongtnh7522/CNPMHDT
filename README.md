@@ -27,10 +27,10 @@
 - Sau khi download, mở thư mục **video-editing/server/video-editing-api** run file _video-editing-api.sln_ để chạy backend
 - Mở Command Prompt tại thư mục **video-editing/client** và nhập các lệnh sau để cài đặt các gói.
 - Nhập _npm start_ để khởi chạy chương trình.
-npm install
-npm install react@latest react-dom@latest
-npm install babel-plugin-react-require 
-$env:NODE_OPTIONS = "--openssl-legacy-provider"
-npm run start
-file json tên Mot_Nen_Nhan_Cuc_Suc.json trong project
-các video và logo để ghép thêm có trong thư mục video trong project
+- npm install
+- npm install react@latest react-dom@latest
+- npm install babel-plugin-react-require 
+- $env:NODE_OPTIONS = "--openssl-legacy-provider"
+- npm run start
+** file json tên Mot_Nen_Nhan_Cuc_Suc.json trong project
+** các video và logo để ghép thêm có trong thư mục video trong project
