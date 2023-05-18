@@ -32,5 +32,7 @@
 - npm install babel-plugin-react-require 
 - $env:NODE_OPTIONS = "--openssl-legacy-provider"
 - npm run start
+
 **file json tên Mot_Nen_Nhan_Cuc_Suc.json trong project**
+
 **các video và logo để ghép thêm có trong thư mục video trong project**
