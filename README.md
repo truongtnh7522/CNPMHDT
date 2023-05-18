@@ -4,7 +4,7 @@
 - **Phan Duy Khánh** - *20110502*
 - **Trần Nguyễn Huy Trường** - *20110590*
 - **Điều Thị Diễm Kiều** - *18110137*
-## Vì project quá nặng nên đây là link Drive: https://drive.google.com/drive/folders/1dHpOUPyTsGyV5EgiN8goGJkYeJ1UNx0O?usp=sharing
+## Vì project quá nặng nên phải lưu trữ bằng drive, đây là link Drive: https://drive.google.com/drive/folders/1dHpOUPyTsGyV5EgiN8goGJkYeJ1UNx0O?usp=sharing
 ## Công nghệ sử dụng
 
 1. Backend
